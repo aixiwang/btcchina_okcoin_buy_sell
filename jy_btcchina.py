@@ -1,3 +1,11 @@
+#---------------------------------------------------------------------------------------------
+# jy_btcchina.py -- a console tool to do buy/sell for btcchina
+#
+# BSD license is applied to this code
+# Copyright by Aixi Wang (aixi.wang@hotmail.com)
+#
+#---------------------------------------------------------------------------------------------
+
 import sys
 import time
 import os
